@@ -1,6 +1,6 @@
 {
   "Patches": {
     "0.9": ["Testing string.", "Testing string.."],
-    "1.0": ["Script released.", "Testing string."],
+    "1.0": ["Script released.", "Testing string."]
   }
 }
